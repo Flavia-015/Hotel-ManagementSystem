@@ -13,7 +13,7 @@
         }
         .th_deg
         {
-            background-color: skyblue;
+            background-color: darkblue;
             padding: 15px;
         }
 

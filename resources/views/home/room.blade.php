@@ -4,7 +4,9 @@
                <div class="col-md-12">
                   <div class="titlepage">
                      <h2>Our Room</h2>
-                     <p>Lorem Ipsum available, but the majority have suffered </p>
+                     <p>Welcome to a world of comfort, luxury, and style. At Keto Hotel, we offer a wide range of thoughtfully designed rooms and suites tailored to meet the diverse needs of our guests. 
+                        Whether you're here for business, leisure, or a special occasion, our accommodations promise a perfect balance of relaxation and functionality. 
+                        Each room is equipped with modern amenities, elegant furnishings, and personalized touches that ensure a memorable stay. Explore our selection of rooms and find the perfect space to call your own during your stay with us. </p>
                   </div>
                </div>
             </div>
